@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "pixelmonfoodliquid:pixelmon_food_fluid",
+        "pixelmonfoodliquid:pixelmon_food_flowing_fluid"
+    ]
+}
